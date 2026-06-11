@@ -1,0 +1,25 @@
+Equipe,Ciclo,Questao,Dificuldade,Tempo(min),EncontrouErro,CorrigiuTotalmente,Pontos
+"Equipe Python","Ciclo 2",1,easy,12,true,true,15
+"Equipe Python","Ciclo 2",2,easy,8,true,true,15
+"Equipe Python","Ciclo 2",3,medium,4,true,true,20
+"Equipe Python","Ciclo 2",4,medium,5,false,false,15
+"Equipe Python","Ciclo 2",5,hard,4,false,false,15
+"Equipe Python","Ciclo 2",6,hard,13,true,true,20
+"Equipe Python","Ciclo 3",1,easy,9,true,true,15
+"Equipe Python","Ciclo 3",2,easy,28,true,true,15
+"Equipe Python","TOTAL",,,,,,130
+"Inimigos do Código","Ciclo 2",1,easy,1,true,true,20
+"Inimigos do Código","Ciclo 2",2,easy,10,true,true,15
+"Inimigos do Código","Ciclo 2",3,medium,1,true,true,20
+"Inimigos do Código","Ciclo 2",4,medium,11,true,true,15
+"Inimigos do Código","Ciclo 2",5,hard,4,true,true,20
+"Inimigos do Código","Ciclo 2",6,hard,9,true,true,20
+"Inimigos do Código","Ciclo 3",1,easy,9,true,true,15
+"Inimigos do Código","Ciclo 3",2,easy,4,false,false,15
+"Inimigos do Código","Ciclo 3",3,medium,19,true,true,15
+"Inimigos do Código","Ciclo 3",5,hard,5,true,true,20
+"Inimigos do Código","Ciclo 3",6,hard,17,true,true,15
+"Inimigos do Código","TOTAL",,,,,,190
+"Equipe Bravo","Ciclo 3",1,easy,6,true,true,15
+"Equipe Bravo","Ciclo 3",2,easy,28,true,true,15
+"Equipe Bravo","TOTAL",,,,,,30
